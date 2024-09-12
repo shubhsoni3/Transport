@@ -60,11 +60,7 @@ const TestimonialThree = () => {
                 <span className='subtitles'>Experience</span>
                 <h2 className='title'>Our Clint Review</h2>
                 <p>
-                  Full age sex set feel her told. Tastes giving in passed direct
-                  me valley as supply. End great stood boy noisy often way taken
-                  short. Rent the size our more door. Years no place abode in no
-                  child my. Man pianoforte too solicitude friendship devonshire
-                  ten ask.
+                Full age set feel heard and appreciated. The service provided was direct and reliable, truly catering to our needs. The journey was smooth, with no disruptions, and everything was delivered as promised. The team stood out with their professionalism and efficiency. They handled everything with care, ensuring a hassle-free experience. I was impressed by their commitment and would recommend their services to anyone looking for dependable transport solutions.
                 </p>
               </div>
             </div>
